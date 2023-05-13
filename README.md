@@ -8,6 +8,7 @@ Usage:  Open your terminal in the same location that you have placed this file.
         Type: sh mfer
         
         Hint: Place Pcap in the same directory so you, only have to provide a name of the file when you are asked for the place of the pcap.
+        Hint: sh mfer.sh
         
 
 Usage:  Open your terminal in the same location that you have placed this file.
