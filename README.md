@@ -16,3 +16,5 @@ Usage:  Open your terminal in the same location that you have placed this file.
         Hint: Your default browser will open.
 
 ![tshark-mfer](https://github.com/CatchMeOutsid3/Networks-an-Related/assets/114786902/ed1c1e8f-ff93-48c0-a6e4-61ce99599054)
+
+Selecting Option 6 allows you to enter your own filter
